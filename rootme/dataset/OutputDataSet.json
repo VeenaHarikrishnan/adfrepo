@@ -15,5 +15,6 @@
 				"container": "adftutorial"
 			}
 		}
-	}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
 }
