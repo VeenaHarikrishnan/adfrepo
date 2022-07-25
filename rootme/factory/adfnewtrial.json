@@ -1,0 +1,9 @@
+{
+	"name": "adfnewtrial",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09fbd7dd-a4ac-4fe0-9827-701c7a86feaa",
+		"tenantId": "f25493ae-1c98-41d7-8a33-0be75f5fe603"
+	}
+}
