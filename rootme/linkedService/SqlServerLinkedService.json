@@ -5,8 +5,9 @@
 		"annotations": [],
 		"type": "SqlServer",
 		"typeProperties": {
-			"connectionString": "integrated security=False;data source=DESKTOP-UNP4ICL;initial catalog=adftest;user id=adfuser",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1MDk0ODcwMS1hYTdlLTQ4MmItYTMxMC05NThiYzIxOWEwMmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "integrated security=True;data source=DESKTOP-UNP4ICL;initial catalog=adftest",
+			"userName": "HP",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhZjM2YmMzNy1lNzdkLTRjMWUtOWNjNy0yYjIwYjM4OWQwOTciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "TutorialIntegrationRuntime",
